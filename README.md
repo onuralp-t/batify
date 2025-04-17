@@ -16,4 +16,4 @@
 
 ## Warning
 
-Nested batifying like in the comments of `build.bat` may have horrifying results...
+Too much nested batifying may have horrifying results... :scream:
